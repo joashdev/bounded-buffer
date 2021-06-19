@@ -1,3 +1,4 @@
+//  Link to defense: http://bit.ly/zamudio_125lab2
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
